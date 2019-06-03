@@ -21,6 +21,18 @@ header.masthead p {
 
 }
 
+.project-div {
+	background: #f05f40 !important;
+	font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;
+}
 .project-category {
     text-align: left;
+	color: #ffffff;
+	font-size: 16px
+}
+
+.project-name {
+	text-align: center;
+	color: #ffffff;
+	font-size: 22px
 }
