@@ -25,6 +25,7 @@ header.masthead p {
     display: flex;
     flex-direction: column;
     min-width: 400px;
+    min-height: 300px;
 }
 .project-category {
     text-align: left;
