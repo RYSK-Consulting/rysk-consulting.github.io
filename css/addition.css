@@ -47,9 +47,8 @@ header.masthead p {
     .title-div {
         position: absolute;
         top: 30%;
-        bottom: 80%;
-        transform: translate(50%, 0);
-        height: 100vh;
+        transform: translate(-15%, 0);
+        width: 100vw;
     }
 
     .title-div-wrapper {
