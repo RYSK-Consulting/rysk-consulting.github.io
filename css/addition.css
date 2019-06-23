@@ -66,4 +66,16 @@ header.masthead p {
         width: 400px;
     }
 
+    .project-div {
+        width: 400px;
+        height: 300px;
+    }
+    .project-category {
+        width: 400px;
+    }
+
+    .project-name {
+        width: 400px;
+    }
+
 }
