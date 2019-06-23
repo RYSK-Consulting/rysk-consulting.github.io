@@ -24,6 +24,7 @@ header.masthead p {
     align-items: center;
     display: flex;
     flex-direction: column;
+    min-width: 400px;
 }
 .project-category {
     text-align: left;
@@ -35,4 +36,31 @@ header.masthead p {
 	text-align: center;
 	color: #ffffff;
 	font-size: 22px
+}
+.fadedbox {
+    background-color: rgba(255,255,255,.5)
+}
+
+@media screen and (-ms-high-contrast: active), screen and (-ms-high-contrast: none) {  
+   /* IE10+ specific styles go here */  
+    .title-div {
+        position: absolute;
+        top: 30%;
+        bottom: 80%;
+        transform: translate(50%, 0);
+        height: 100vh;
+    }
+
+    .title-div-wrapper {
+        position: relative;
+        width: 100%;
+        height: 100%;
+    }
+    .col-lg-10 {
+        display: 
+    }
+    .col-lg-8{
+
+    }
+
 }
