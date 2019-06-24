@@ -76,5 +76,9 @@ header.masthead p {
     .project-name {
         width: 400px;
     }
+    .img-fluid {
+        width: 400px;
+        height: 300px;
+    }
 
 }
